@@ -14,12 +14,7 @@ The final result is an a clear and neat page that display UFO sighting data.
 In order to perform a search on the page you can select one or multiple filter from the 5 available.
 
 ### Filters
-The available filters are:
-Date
-City
-State
-Country
-Shape
+The available filters are: Date, City, State, Country and Shape.
 
 ![Filters](https://github.com/ggalguera/UFOs/blob/main/Screenshot_01.png)
 
@@ -30,7 +25,7 @@ Once you have click out of the cell or press enter the table will updated based 
 ## Summary:
 
 ### Drawback of this webpage.
-This webpage looks fairly tidy, but there are still some areas for improvement. One issue is that it is not immediately clear that the table is updated automatically. Some users may be expecting a button labeled "Filter" or "See Results" and could be confused by the current design.
+This webpage looks fairly tidy, but there are still some areas for improvement. One issue is that it is not immediately clear that the table is updated automatically. Some users may be expecting a button labeled "Filter" or "See Results" and could be confused by the current design. One problem also is that data only contains USA events.
 
 ### Additional recommendations for further development
 It would be useful to allow searches to be filtered by the duration of the UFO sighting by dividing the time entries into categories.
