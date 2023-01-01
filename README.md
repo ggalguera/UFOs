@@ -1,4 +1,4 @@
-# UFOs
+# UFO sightings
 
 ## Overview of the analysis.
 An interactive html page and Java Script are utilized in this analysis to display data on UFO sightings in the USA. The page reads from a JS file containing the relevant information and presents it in a table that can be filtered using five different input options.
